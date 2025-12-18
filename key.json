@@ -1,9 +1,6 @@
 {
-  "VanNghiaa": {
-    "Key": "VANN_NGHIAA_KEY_7DAY",
-    "ExpiryDate": "2025-12-25",
-    "AllowedID": 123456789, 
-    "Status": "Active"
-  }
+  "key": "VAN-NGHIA-KEY-7DAY",
+  "hwid": "A1B2C3D4-E5F6-G7H8", 
+  "status": "active"
 }
 
