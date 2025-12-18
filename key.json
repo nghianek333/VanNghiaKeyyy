@@ -1,7 +1,9 @@
 {
-    "key": "VanNghia-2021",
-    "expiration": "2025-12-19",
-    "announcement": "Chào Mừng Bạn! Script Đang Hoạt Động Ổn Định.",
-    "version": "1.0.0",
-    "isMaintenance": false
+  "VanNghiaa": {
+    "Key": "VANN_NGHIAA_KEY_7DAY",
+    "ExpiryDate": "2025-12-25",
+    "AllowedID": 123456789, 
+    "Status": "Active"
+  }
 }
+
