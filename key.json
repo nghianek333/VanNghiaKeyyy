@@ -1,6 +1,4 @@
 {
-  "key": "VAN-NGHIA-KEY-7DAY",
-  "hwid": "A1B2C3D4-E5F6-G7H8", 
-  "status": "active"
+  "key": "VanNghia",
+  "webhook": "https://discord.com/api/webhooks/1450968550696030249/vb_tlTRIf2p1SgfjX8EGGqVewShD6Ia6QMlNYr6jNt9MCP-T0801GHD4JND6Xy__wXU4"
 }
-
